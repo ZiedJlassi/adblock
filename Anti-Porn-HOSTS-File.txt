@@ -40795,8 +40795,6 @@
 0.0.0.0    www.zzsyw.com
 0.0.0.0    www.zztube.com
 0.0.0.0    www.zzztube.com
-0.0.0.0    www.افلام-سكس.com
-0.0.0.0    www.سكس.cc
 0.0.0.0    www1.belboon.de
 0.0.0.0    www1.javbuz.com
 0.0.0.0    www1.javhoho.com
@@ -41833,5 +41831,3 @@
 0.0.0.0    zzsyw.com
 0.0.0.0    zzztube.com
 0.0.0.0    zzztube.tv
-0.0.0.0    افلام-سكس.com
-0.0.0.0    سكس.cc
